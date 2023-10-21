@@ -696,7 +696,7 @@ body{
         
     }
 }
-/*----page starts---*/
+/*----page5 starts---*/
 .page5{
     background-color:rgba(21, 17, 59, 1) ;
     padding-bottom: 50px;
@@ -733,11 +733,21 @@ body{
     text-align: center;
     font-size: 44px;
 }
-.page5_para2_4{
-    width: 743px;
-    height: 46px;
+.page5_Para1_2{
+    position: absolute;
     font-family: 'DM Sans', sans-serif;
-    text-align: center;
+    font-weight: 500;
+    font-size: 44px;
+    line-height: 57.29px;
+    top: -60px;
+    left: 100px;
+
+}
+.page5_para2_4{
+    width: 600px;
+    height: 60px;
+    font-family: 'DM Sans', sans-serif;
+    text-align: left;
     font-size: 18px;
     line-height: 23.4px;
     font-weight: 400;
