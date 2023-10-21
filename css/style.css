@@ -739,8 +739,8 @@ body{
     font-weight: 500;
     font-size: 44px;
     line-height: 57.29px;
-    top: -60px;
-    left: 100px;
+    top: -30px;
+    left: 20px;
 
 }
 .page5_para2_4{
@@ -752,6 +752,7 @@ body{
     line-height: 23.4px;
     font-weight: 400;
     margin-top: 50px;
+    margin-left: 20px;
 }
 .page5_2{
     width: 743px;
@@ -784,9 +785,9 @@ body{
 
 }
 .itermimage1{
-    width: 400.26px;
+    width: 350.26px;
     height: 400.36px;
-    margin-left: 20px;  
+    margin-left: 0px;  
 }
 .itermimage{
     width: 400.26px;
@@ -1058,7 +1059,7 @@ body{
     justify-content: center;
     gap:20px;
     margin-top: 100px;
-    margin-right: 100px;
+    margin-right: 35px;
 }
 input[type=text], select {
         width: 463px;
